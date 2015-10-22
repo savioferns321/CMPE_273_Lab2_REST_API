@@ -1,4 +1,8 @@
 # CMPE_273_Lab2_REST_API
 
-<h1>REST API Lab submission</h1>
+<h3>REST API Lab submission</h3>
+
+restapi.exe is the exeecutable for the server side application
+
+restapi.go is the GO program.
 
